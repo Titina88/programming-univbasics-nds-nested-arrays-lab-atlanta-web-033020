@@ -24,8 +24,8 @@ end
   # However, this time, sort each internal array alphabetically by the first character
 
 def sorted_matrix
-[CONVENTIONAL_PRODUCEORGANIC_PRODUCE.sort,
-.sort]
+[CONVENTIONAL_PRODUCE.sort,
+ORGANIC_PRODUCE.sort]
      
 end
 
